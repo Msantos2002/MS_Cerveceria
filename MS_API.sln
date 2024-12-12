@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS_API", "MS_API.csproj", "{8948F0B9-B362-4BCB-955A-CBCC5B1B89B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS_Cerveceria1", "..\MS_Cerveceria1\MS_Cerveceria1.csproj", "{D6DDF663-8459-4D38-9E59-DF59C5D351B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8948F0B9-B362-4BCB-955A-CBCC5B1B89B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8948F0B9-B362-4BCB-955A-CBCC5B1B89B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8948F0B9-B362-4BCB-955A-CBCC5B1B89B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8948F0B9-B362-4BCB-955A-CBCC5B1B89B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DDF663-8459-4D38-9E59-DF59C5D351B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DDF663-8459-4D38-9E59-DF59C5D351B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DDF663-8459-4D38-9E59-DF59C5D351B8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D6DDF663-8459-4D38-9E59-DF59C5D351B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DDF663-8459-4D38-9E59-DF59C5D351B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DDF663-8459-4D38-9E59-DF59C5D351B8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBCB9A92-F82D-49F9-86C5-A5AF57412F2A}
+	EndGlobalSection
+EndGlobal
